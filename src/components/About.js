@@ -19,24 +19,21 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently a <b>Software Development Engineer</b> at
-        <a href="https://www.aboutamazon.com/"> Amazon</a>, working in the AWS
-        sector under team Route53. At the same time, I am undertaking a
-        part-time <b> Master's of Science</b> in <b>Software Engineering </b>at{" "}
-        <a href="https://www.ox.ac.uk/about">University of Oxford</a>.
+        I am currently a <b>Student</b> at <a href=""> Northeastern University</a>, 
+        and am undertaking in the Master's of Data Science . 
       </p>
     );
     const two = (
       <p>
-        Outside of work, I'm interested in following the developments of
-        science. I also play a lot of video games. And make TikToks.
+        Aside from Data Science, I am a language learning enthusiast, love to read and research philosophy,
+        psychology, and history.
       </p>
     );
     const three = (
       <p>
         <b>Want to chat?</b> Shoot me a message at{" "}
-        <a href="mailto:gazi.jarin@mail.utoronto.ca">
-          gazi.jarin@mail.utoronto.ca
+        <a href="mailto:thachapully.h@northeastern.com">
+          thachapully.h@northeastern.com
         </a>{" "}
         and let's talk.
       </p>
@@ -44,12 +41,16 @@ class About extends React.Component {
     const desc_items = [one, two];
 
     const tech_stack = [
-      "Javascript ES6+",
       "Python",
-      "React.js",
-      "Java",
-      "Node.js",
-      "HTML & CSS"
+      "R",
+      "Seaborn",
+      "Pandas",
+      "Matplotlib",
+      "Numpy",
+      "Scikit Learn",
+      "PowerBI",
+      "Data Analysis",
+      "SQL",
     ];
 
     const tech_items = tech_stack.map(stack => <li>{stack}</li>);
@@ -76,7 +77,7 @@ class About extends React.Component {
               {[two]}
             </div>
             <div className="about-image">
-              <img src={"/assets/me2.jpg"} />
+              <img src={"/assets/me.jpg"} />
             </div>
           </div>
         </FadeInSection>
