@@ -42,6 +42,7 @@ class About extends React.Component {
 
     const tech_stack = [
       "Python",
+      "Your mom",
       "R",
       "Seaborn",
       "Pandas",
