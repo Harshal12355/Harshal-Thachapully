@@ -90,14 +90,14 @@ const JobList = () => {
       ]
     },
     "ML Certification with Andrew Ng": {
-      jobTitle: "Web Programming Teaching Assistant",
+      jobTitle: "Certificate Course:",
       duration: "SEPT 2022 - OCT 2022",
       desc: [
         "Collaborated with the instructor and  5 other TA's for assisting 60+ students with web programming concepts and grading their courseworks"
       ]
     },
     "Google data analytics certification": {
-      jobTitle: "Web Programming Teaching Assistant",
+      jobTitle: "Certificate Course:",
       duration: "SEPT 2022 - OCT 2022",
       desc: [
         "Got familiar with different data analytical tools such as Tableu, R, and Spreadsheets. Made a final capstone project using the toolkit that comes along with Python "

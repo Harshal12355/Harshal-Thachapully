@@ -81,14 +81,28 @@ class Projects extends React.Component {
           "Use the Javascript library, D3, to try bring data from netflix data",
         techStack: "JavaScript, D3, HTML, CSS",
         link: "https://github.com/Harshal12355/Netflix-Analysis-and-Visualisation-using-D3",
-        open: "https://harshal12355.github.io/Netflix-Analysis-and-Visualisation-using-D3/"
+        // open: "https://harshal12355.github.io/Netflix-Analysis-and-Visualisation-using-D3/"
       },
-      "Cyclistic": {
+      "Google Capstone Project: Cyclistic": {
         desc:
-          "Using Python, Pandas, and Visualisation libraries in python EDA was performed to better understand the ",
+          "Google Capstone Project",
         techStack: "JavaScript, D3, HTML, CSS",
         link: "https://github.com/Harshal12355/Netflix-Analysis-and-Visualisation-using-D3",
-        open: "https://harshal12355.github.io/Netflix-Analysis-and-Visualisation-using-D3/"
+        // open: "https://harshal12355.github.io/Netflix-Analysis-and-Visualisation-using-D3/"
+      },
+      "Elden Ring Weapon Analysis ": {
+        desc:
+          "Using Python, Pandas, and Visualisation libraries in python EDA was performed to better understand the ",
+        techStack: "Python, Matplotlib, Numpy, Seaborn",
+        // link: "https://www.kaggle.com/code/harshalthachapully/elden-ring-weapon-analysis",
+        open: "https://www.kaggle.com/code/harshalthachapully/elden-ring-weapon-analysis"
+      },
+      "Airbnb in NYC Analysis": {
+        desc:
+          "Using Python, Pandas, and Visualisation libraries in python EDA was performed to better understand the ",
+        techStack: "Python, Matplotlib, Numpy, Seaborn",
+        // link: "https://www.kaggle.com/code/harshalthachapully/airbinb-in-nyc-eda",
+        open: "https://www.kaggle.com/code/harshalthachapully/airbinb-in-nyc-eda"
       },
     };
 

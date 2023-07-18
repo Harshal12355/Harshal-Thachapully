@@ -42,7 +42,6 @@ class About extends React.Component {
 
     const tech_stack = [
       "Python",
-      "Your mom",
       "R",
       "Seaborn",
       "Pandas",
@@ -52,6 +51,7 @@ class About extends React.Component {
       "PowerBI",
       "Data Analysis",
       "SQL",
+      "TensorFlow",
     ];
 
     const tech_items = tech_stack.map(stack => <li>{stack}</li>);

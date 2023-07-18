@@ -32,7 +32,7 @@ class SidebarNav extends React.Component {
       <a href="#intro">/home</a>,
       <a href="#about">/about</a>,
       <a href="#experience">/experience and certifications</a>,
-      <a href="#projects">/software-creations</a>
+      <a href="#projects">/projects</a>
     ];
 
     return (
@@ -62,6 +62,9 @@ class SidebarNav extends React.Component {
           </a>
           <a href="https://github.com/gazijarin">
             <GitHubIcon style={{ fontSize: 19 }}></GitHubIcon>
+          </a>
+          <a href="https://www.linkedin.com/in/gazi-jarin-3644b0172/">
+            <LinkedInIcon style={{ fontSize: 21 }}></LinkedInIcon>
           </a>
           <a href="https://www.linkedin.com/in/gazi-jarin-3644b0172/">
             <LinkedInIcon style={{ fontSize: 21 }}></LinkedInIcon>
